@@ -1,0 +1,28 @@
+c:\users\siael\documents\visual studio 2012\Projects\Download_Folder_Manager\obj\Debug\Download_Folder_Manager.vbproj.GenerateResource.Cache
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\bin\Debug\Folder Manager.exe.config
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\bin\Debug\Folder Manager.exe.manifest
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\bin\Debug\Folder Manager.application
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\bin\Debug\Folder Manager.exe
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\bin\Debug\Folder Manager.pdb
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\bin\Debug\Folder Manager.xml
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\FolderManager.abt.resources
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\FolderManager.frmMain.resources
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\FolderManager.Resources.resources
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\Folder Manager.TrustInfo.xml
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\Folder Manager.exe.manifest
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\Folder Manager.application
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\Folder Manager.exe
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\Folder Manager.xml
+C:\Users\Siael\Documents\Visual Studio 2012\Projects\Download_Folder_Manager\obj\Debug\Folder Manager.pdb
+C:\Users\Siael\Projetos\VB\Download_Folder_Manager\bin\Debug\Folder Manager.exe.config
+C:\Users\Siael\Projetos\VB\Download_Folder_Manager\obj\Debug\Folder Manager.exe
+C:\Users\Siael\Projetos\VB\Download_Folder_Manager\obj\Debug\Folder Manager.xml
+C:\Users\Siael\Projetos\VB\Download_Folder_Manager\obj\Debug\Folder Manager.pdb
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\bin\Debug\Folder Manager.exe.config
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\obj\Debug\Folder Manager.exe
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\obj\Debug\Folder Manager.xml
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\obj\Debug\Folder Manager.pdb
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\obj\Debug\FolderManager.abt.resources
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\obj\Debug\FolderManager.frmMain.resources
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\obj\Debug\FolderManager.Resources.resources
+F:\BACKUPS\20150719 Siael-PC\Projetos\VB\Download_Folder_Manager\obj\Debug\Download_Folder_Manager.vbproj.GenerateResource.Cache
